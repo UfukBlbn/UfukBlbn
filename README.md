@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ufuk Balaban</h1>
-<h3 align="center">I am a software engineer, I am currently learning modern scripting technologies. You can review all the software projects he has developed so far.</h3>
+<h3 align="center">I am a software engineer, I am currently learning modern scripting technologies. You can review all the software projects that I developed so far.</h3>
 
 - 🌱 I’m currently learning **ReactJs/NodeJs/NextJs**
 
