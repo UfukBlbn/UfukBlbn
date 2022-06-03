@@ -2,7 +2,7 @@
 <h3 align="center">I am a software engineer, I am currently learning modern scripting technologies. You can review all the software projects that I developed so far.</h3>
 
 - 🌱 I’m currently learning **ReactJs/NodeJs/NextJs**
-![](https://komarev.com/ghpvc/?username=UfukBlbn)
+ 
 - 📫 How to reach me **ufukkblbnn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
